@@ -13,9 +13,9 @@ import React from 'react';
 
 const Contacts = () => {
   const contacts = [
-    { id: 1, name: 'John Doe', email: 'johndoe@example.com' },
-    { id: 2, name: 'Jane Smith', email: 'janesmith@example.com' },
-    { id: 3, name: 'Bob Johnson', email: 'bobjohnson@example.com' },
+    { id: 1, name: 'Badhon', email: 'sarkerbadhon01@gamil.com' },
+    { id: 2, name: 'Shuvo', email: 'shuvo@example.com' },
+    { id: 3, name: 'Ashik', email: 'ashik@example.com' },
   ];
 
   return (
