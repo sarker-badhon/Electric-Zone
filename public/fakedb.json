@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Amazon speakers ",
+        "price": 49.99,
+        "quantity": 10,
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202207/1.jpg?VersionId=DERTLCe6NgHkjpU0HNFaIZ1gua4frndS&size=690:388"
+    },
+    {
+        "id": 2,
+        "name": "Google Nest Mini",
+        "price": 49.00,
+        "quantity": 8,
+        "image": "https://www.tink.de/blog/wp-content/uploads/sites/7/2020/03/google-nest-mini-nachfolger-google-home-mini-lifestlye.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Electric Smart Frize",
+        "price": 99.99,
+        "quantity": 5,
+        "image": "https://www.plm.automation.siemens.com/media/global/en/smart-products-home-appliances-640x360_tcm27-107452.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ecobee Smart Thermostat",
+        "price": 249.00,
+        "quantity": 3,
+        "image": "https://images.ctfassets.net/a3qyhfznts9y/7jgAEuBgKKmwjT8efLdRtX/d341a66beef7e0999f9dcf9baf13edd0/Category_CAN.jpg?w=1800&h=900&q=80&fm=webp"
+    },
+    {
+        "id": 5,
+        "name": "Ring Video Doorbell",
+        "price": 99.99,
+        "quantity": 6,
+        "image": "https://s.yimg.com/uu/api/res/1.2/5bAnbHO.1HRImE3culQLYA--~B/Zmk9ZmlsbDtoPTQ5Mzt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-07/55527450-f95b-11ec-af0d-2efed240ec78.cf.webp"
+    },
+    {
+        "id": 6,
+        "name": "August Smart Lock Pro",
+        "price": 229.99,
+        "quantity": 4,
+        "image": "https://i.pcmag.com/imagery/articles/05sTvwWlrlSGylcYRtQYhjS-1.fit_lim.size_1600x900.v1596564070.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Samsung SmartThings Hub",
+        "price": 69.99,
+        "quantity": 7,
+        "image": "https://s.yimg.com/uu/api/res/1.2/GnN5I8XlNBMtL2M0oS7ATA--~B/Zmk9ZmlsbDtoPTU0NTt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://o.aolcdn.com/images/dims?crop=1600%2C997%2C0%2C0&quality=85&format=jpg&resize=1600%2C997&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F55a63810-9644-11e9-bdff-8fa64c7df6d3&client=a1acac3e1b3290917d92&signature=fd24bfe299b8965e717fe7dd52be03f42adc9dca.cf.webp"
+    },
+    {
+        "id": 8,
+        "name": "Arlo Pro 3 Security Camera",
+        "price": 499.99,
+        "quantity": 2,
+        "image": "https://s.yimg.com/uu/api/res/1.2/GnN5I8XlNBMtL2M0oS7ATA--~B/Zmk9ZmlsbDtoPTU0NTt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://o.aolcdn.com/images/dims?crop=1600%2C997%2C0%2C0&quality=85&format=jpg&resize=1600%2C997&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F55a63810-9644-11e9-bdff-8fa64c7df6d3&client=a1acac3e1b3290917d92&signature=fd24bfe299b8965e717fe7dd52be03f42adc9dca.cf.webp"
+    },
+    {
+        "id": 9,
+        "name": "Sonos Smart Speaker",
+        "price": 199.00,
+        "quantity": 9,
+        "image": "https://s.yimg.com/uu/api/res/1.2/BiyOVLU6vpxY4RRMgM7M3Q--~B/aD0xMjAwO3c9MTgwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2020-01/d47d7bb0-3d21-11ea-bffe-8326dbadb48d.cf.webp"
+    },
+    {
+        "id": 10,
+        "name": "LIFX Smart Bulbs",
+        "price": 59.99,
+        "quantity": 12,
+        "image": "https://www.differencebetween.com/wp-content/uploads/2018/09/Difference-Between-Phillips-Hue-and-Lifx-Smart-Bulbs_Figure-1.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Nest Learning Thermostat",
+        "price": 249.00,
+        "quantity": 3,
+        "image": "https://i.cbc.ca/1.3094026.1432962150!/fileImage/httpImage/image.png_gen/derivatives/16x9_780/nest-thermostat.png"
+    },
+    {
+        "id": 12,
+        "name": "Logitech Harmony Elite Remote Control",
+        "price": 349.99,
+        "quantity": 1,
+        "image": "https://cdn.mos.cms.futurecdn.net/omS4bLMKkwPvtCVFnrRhQC-970-80.jpg.webp"
+    }
+]

@@ -1,0 +1,23 @@
+
+img{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    
+}
+.pd-container{
+    border: 1px solid rgb(24, 44, 226);
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+.pd-info{
+    padding: 10px;
+    line-height: 40px;
+}
+.btn{
+    background-color: darkgreen;
+    font-size: 15px;
+   
+
+}
